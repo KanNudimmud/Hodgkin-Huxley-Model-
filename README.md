@@ -43,6 +43,11 @@ V_K : Potassium equilibrium potential
 V_L : Leakage equilibrium potential
 
 
+Model:
+
+<img width="454" alt="image" src="https://github.com/KanNudimmud/Hodgkin-Huxley-Model-/assets/75501882/c7f75276-b514-447a-9628-21c146fe1bcd">
+
+
 
 Output: 
 
