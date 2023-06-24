@@ -23,13 +23,22 @@ $$\ dh/dt = α_h * (1 - h) - β_h * h $$
 
 Variables:
 m, n, h: State variables
+
 g: Channel conductivity
-$\ α, β $ : Rate coefficients
-$\ C_m $ : Membrane capacitance
+
+α, β : Rate coefficients
+
+C_m : Membrane capacitance
+
 I: Input current
+
 V: Membrane potential
-$\ I_m $ : Membrane current
-$\ V_Na $ : Sodium equilibrium potential
-$\ V_K $ : Potassium equilibrium potential
-$\ V_L $ : Leakage equilibrium potential
+
+I_m : Membrane current
+
+V_Na : Sodium equilibrium potential
+
+V_K : Potassium equilibrium potential
+
+V_L : Leakage equilibrium potential
 
