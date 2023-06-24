@@ -2,6 +2,7 @@
 Hodgkin&amp;Huxley Model in MATLAB and Simulink.
 
 It is a first model of a cell. Huxley and Hodgkin took giant axon from a squid and they have explained ion channels mechanism.
+
 <img width="282" alt="image" src="https://github.com/KanNudimmud/Hodgkin-Huxley-Model-/assets/75501882/43afdc49-e4a2-4c93-a5c7-7e6db20d2691">
 
 Assuming cell as an electrical system before a biological is the fundamental part of modelling the cell membrane.
