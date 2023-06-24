@@ -12,13 +12,13 @@ Figure. Circuit representation
 
 Hodgkin and Huxley are found and formulated this model after series of voltage clamp experiments by altering sodium and potassium concentrations.
 
-C_m * (dV/dt) = I - I_m
-I_m = g_Na * m^3 * h * (V - V_Na) - g_K * n^4 * (V - V_K) - g_L * (V - V_L)
+$$\ C_m * (dV/dt) = I - I_m $$
+$$\ I_m = g_Na * m^3 * h * (V - V_Na) - g_K * n^4 * (V - V_K) - g_L * (V - V_L) $$
 
 Leakage Current:
-dm/dt = α_m * (1 - m) - β_m * m
-dn/dt = α_n * (1 - n) - β_n * n
-dh/dt = α_h * (1 - h) - β_h * h
+$$\ dm/dt = α_m * (1 - m) - β_m * m $$
+$$\ dn/dt = α_n * (1 - n) - β_n * n $$
+$$\ dh/dt = α_h * (1 - h) - β_h * h $$
 
 Variables:
 m, n, h: State variables
