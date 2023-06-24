@@ -13,6 +13,7 @@ Figure. Circuit representation
 Hodgkin and Huxley are found and formulated this model after series of voltage clamp experiments by altering sodium and potassium concentrations.
 
 $$\ C_m * (dV/dt) = I - I_m $$
+
 $$\ I_m = g_Na * m^3 * h * (V - V_Na) - g_K * n^4 * (V - V_K) - g_L * (V - V_L) $$
 
 Leakage Current:
@@ -23,12 +24,12 @@ $$\ dh/dt = α_h * (1 - h) - β_h * h $$
 Variables:
 m, n, h: State variables
 g: Channel conductivity
-α, β: Rate coefficients
-C_m: Membrane capacitance
+$\ α, β $ : Rate coefficients
+$\ C_m $ : Membrane capacitance
 I: Input current
 V: Membrane potential
-I_m: Membrane current
-V_Na: Sodium equilibrium potential
-V_K: Potassium equilibrium potential
-V_L: Leakage equilibrium potential
+$\ I_m $ : Membrane current
+$\ V_Na $ : Sodium equilibrium potential
+$\ V_K $ : Potassium equilibrium potential
+$\ V_L $ : Leakage equilibrium potential
 
