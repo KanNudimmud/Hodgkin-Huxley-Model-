@@ -38,6 +38,12 @@ I_m : Membrane current
 
 V_Na : Sodium equilibrium potential
 
+
+Output: 
+<img width="453" alt="image" src="https://github.com/KanNudimmud/Hodgkin-Huxley-Model-/assets/75501882/2d50e813-8c7f-4ec0-88a9-e6ebadcb3db9">
+
+
+
 V_K : Potassium equilibrium potential
 
 V_L : Leakage equilibrium potential
